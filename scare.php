@@ -15,7 +15,7 @@
 		<meta property="og:title" content="Screenshot">
 		<meta property="og:url" content="https://<?= $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"] ?>">
 		<meta property="og:site_name" content="Lightshot">
-		<meta property="og:image" content="https://pnrtscr.com/resources/images/scare/logo.png">
+		<meta property="og:image" content="https://lewis.com/resources/images/scare/logo.png">
 		<meta property="og:description" content="Captured with Lightshot">
 		<meta property="og:type" content="website">		
 		
@@ -51,7 +51,7 @@
 		<meta name="twitter:title" content="Screenshot">
 		<meta name="twitter:site" content="@light_shot">
 		<meta name="twitter:description" content="Captured with Lightshot">
-		<meta name="twitter:image:src" content="https://pnrtscr.com/resources/images/scare/logo.png">
+		<meta name="twitter:image:src" content="https://lewis.com/resources/images/scare/logo.png">
 
 		<style type="text/css">
 			html, body {
